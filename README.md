@@ -1,2 +1,2 @@
-# WEBSITE DEVELOPMENT PORTFOLIO
-hey dont steal my very shitty code .-.
+# website portfolio
+gamer website
